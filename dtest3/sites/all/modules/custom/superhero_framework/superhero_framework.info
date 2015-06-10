@@ -1,0 +1,4 @@
+name = Superhero Framework Core
+description = "Core setup for the Superhero Framework."
+core = 7.x
+package = Superhero Framework
